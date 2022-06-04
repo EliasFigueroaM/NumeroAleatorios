@@ -1,0 +1,63 @@
+
+
+java:S1192e"rDefine a constant instead of duplicating this literal "=================================================" 3 times.(§‡ßÊøÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+U
+java:S3518V"?Make sure "contImpar" can't be zero before doing this division.(ñÕä
+X
+java:S3518U"=Make sure "contPar" can't be zero before doing this division.(í˜õ¥úÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(‹ÈòÈ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûÕìåùÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ó³­Ûşÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(°€¡Áûÿÿÿÿ
+c	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™³¯·
+D
+java:S1481+")Remove this unused "suma" local variable.(é«Ğüşÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Áˆëüúÿÿÿÿ
+c	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷à‚á
+D
+java:S14815")Remove this unused "suma" local variable.(é«Ğüşÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(½À˜Æıÿÿÿÿ
+W
+java:S1854D"ARemove this useless assignment to local variable "promedioImpar".(À€·Á
+U
+java:S1854D"?Remove this useless assignment to local variable "promedioPar".(À€·Á
+Y
+java:S1659B"CDeclare "sumPar" and all following declarations on a separate line.(çëŒ”
+=
+java:S1659C"'Declare "contImpar" on a separate line.(ı‰Œ•
+A
+java:S1659D"+Declare "promedioImpar" on a separate line.(À€·Á
+?
+java:S1481B")Remove this unused "suma" local variable.(çëŒ”
+M	java:S106W"9Replace this use of System.out or System.err by a logger.(àÈU
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(ÏşŸşÿÿÿÿ
+Q
+java:S1854\"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ
+B
+java:S1481\"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ
+A
+java:S1481]"&Remove this unused "i" local variable.(¾Øàéüÿÿÿÿ
+E
+java:S1197^"*Move the array designators [] to the type.(²ûŒşÿÿÿÿ
+F
+java:S1481_"+Remove this unused "maximo" local variable.(•´Ñ›ûÿÿÿÿ
+A
+java:S1481`"+Remove this unused "minimo" local variable.(ûÑ–ğ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(şïèøùÿÿÿÿ
+M	java:S106b"9Replace this use of System.out or System.err by a logger.(Ø¯	
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(şïèøùÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(§‡ßÊøÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(îÛ†øûÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(§‡ßÊøÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(¹¦‚Éúÿÿÿÿ
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(—¿Çşÿÿÿÿ8—Ç•„“0
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(ùãú®8µÊ–„“0
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(§‡ßÊøÿÿÿÿ8³—„“0
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
